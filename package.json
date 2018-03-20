@@ -1,0 +1,11 @@
+{
+  "name": "@jwalsh/codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Jason Walsh",
+  "license": "ISC",
+  "dependencies": {
+    "@jwalsh/stochastic": "^0.2.4"
+  }
+}
