@@ -6,6 +6,8 @@
   "author": "Jason Walsh",
   "license": "ISC",
   "dependencies": {
-    "@jwalsh/stochastic": "^0.2.4"
+    "@jwalsh/stochastic": "^0.2.4",
+    "react": "^16.2.0",
+    "react-test-renderer": "^16.2.0"
   }
 }
